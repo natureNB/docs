@@ -6,7 +6,7 @@
       "installedVersion": "1.0.0",
       "installedRef": "v1.0.0",
       "installedAt": "2026-08-31T14:09:06.852Z",
-      "enabled": true,
+      "enabled": false,
       "files": [
         "src/plugins/tag-nav/README.md",
         "src/plugins/tag-nav/garden-plugin.json",
@@ -30,6 +30,19 @@
         "src/plugins/breadcrumbs/index.js",
         "src/plugins/breadcrumbs/styles/trail.scss",
         "src/plugins/breadcrumbs/templates/trail.njk"
+      ]
+    },
+    "moc-nav": {
+      "repo": "oleeskild/garden-plugin-moc-nav",
+      "installedVersion": "1.0.1",
+      "installedRef": "v1.0.1",
+      "installedAt": "2026-08-31T17:46:25.989Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/moc-nav/README.md",
+        "src/plugins/moc-nav/garden-plugin.json",
+        "src/plugins/moc-nav/styles/moc-nav.scss",
+        "src/plugins/moc-nav/templates/moc-nav.njk"
       ]
     }
   }
