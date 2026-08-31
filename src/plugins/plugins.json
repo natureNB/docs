@@ -17,6 +17,20 @@
     },
     "dg-filetree": {
       "enabled": false
+    },
+    "breadcrumbs": {
+      "repo": "oleeskild/garden-plugin-breadcrumbs",
+      "installedVersion": "1.0.0",
+      "installedRef": "v1.0.0",
+      "installedAt": "2026-08-31T17:44:56.532Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/breadcrumbs/README.md",
+        "src/plugins/breadcrumbs/garden-plugin.json",
+        "src/plugins/breadcrumbs/index.js",
+        "src/plugins/breadcrumbs/styles/trail.scss",
+        "src/plugins/breadcrumbs/templates/trail.njk"
+      ]
     }
   }
 }
