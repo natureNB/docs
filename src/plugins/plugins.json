@@ -16,7 +16,7 @@
       ]
     },
     "dg-filetree": {
-      "enabled": false
+      "enabled": true
     },
     "breadcrumbs": {
       "repo": "oleeskild/garden-plugin-breadcrumbs",
