@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coastal-adaptation/plant-lists/krummholz-and-coastal-restoration/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/coastal-adaptation/plant-lists/krummholz-and-coastal-restoration/","tags":["en"],"dg-note-properties":{"tags":["en"]}}
 ---
 
 

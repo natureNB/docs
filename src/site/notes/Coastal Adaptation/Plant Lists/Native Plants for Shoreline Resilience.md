@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coastal-adaptation/plant-lists/native-plants-for-shoreline-resilience/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/coastal-adaptation/plant-lists/native-plants-for-shoreline-resilience/","tags":["fr"],"dg-note-properties":{"tags":["fr"]}}
 ---
 
 
