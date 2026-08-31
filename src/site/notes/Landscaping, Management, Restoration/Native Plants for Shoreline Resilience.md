@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Landscaping, Management, Restoration/Native Plants for Shoreline Resilience/","tags":["coast-côte","français"],"dg-note-properties":{"tags":["coast-côte","français"]}}
+{"dg-publish":true,"permalink":"/landscaping-management-restoration/native-plants-for-shoreline-resilience/","tags":["coast-côte","français"],"dg-note-properties":{"tags":["coast-côte","français"]}}
 ---
 
 

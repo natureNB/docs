@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Landscaping, Management, Restoration/Krummholz and Coastal Restoration/","tags":["english","coast-côte"],"dg-note-properties":{"tags":["english","coast-côte"]}}
+{"dg-publish":true,"permalink":"/landscaping-management-restoration/krummholz-and-coastal-restoration/","tags":["english","coast-côte"],"dg-note-properties":{"tags":["english","coast-côte"]}}
 ---
 
 
