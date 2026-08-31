@@ -32,19 +32,6 @@
         "src/plugins/breadcrumbs/templates/trail.njk"
       ]
     },
-    "moc-nav": {
-      "repo": "oleeskild/garden-plugin-moc-nav",
-      "installedVersion": "1.0.1",
-      "installedRef": "v1.0.1",
-      "installedAt": "2026-08-31T17:46:25.989Z",
-      "enabled": true,
-      "files": [
-        "src/plugins/moc-nav/README.md",
-        "src/plugins/moc-nav/garden-plugin.json",
-        "src/plugins/moc-nav/styles/moc-nav.scss",
-        "src/plugins/moc-nav/templates/moc-nav.njk"
-      ]
-    },
     "related-notes": {
       "repo": "oleeskild/garden-plugin-related-notes",
       "installedVersion": "1.0.0",
